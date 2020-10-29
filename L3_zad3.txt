@@ -1,0 +1,1 @@
+Po uruchomieniu potoku trzech poleceń przy pomocy polecenia ps sprawdzone zostało ich pokrewieństwo. Wszystkie polecenia były potomkami procesu odpowiedzalngeo za ich wywołanie.

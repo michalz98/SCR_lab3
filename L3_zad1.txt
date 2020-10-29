@@ -1,0 +1,10 @@
+ps -f  -  lista procesów
+ps -l  - lista długa (więcej szczegółów)
+
+ps -u  - procesy danego urzytkownika/listy urzytkowników
+ps -t  - procesy z danego terminala/listy terminali
+ps -p  - procesy, których ID jest w liście ID wskazanej po argumencie
+
+Ilość procesów w systemie w chwili wywołania "ps": 4
+
+Ilość procesów sshd : lokalnie - 0 , na panamince - 24

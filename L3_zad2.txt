@@ -1,0 +1,1 @@
+Sekwencja trzech skryptów uruchamiała się poprawnie. Poprzez polecenie ps -af można było zobaczyć, że skrypty są odpowiednio zależne od siebie: skrypt 1 był rodzicem skryptu 2, ktory był rodzicem skryptu 3. Po zabiciu procesu odpowiadającego za skrypt 2 poleceniem kill, jego proces potomny był adoptowany przez proces ststemowy podlegający procesowi init.
